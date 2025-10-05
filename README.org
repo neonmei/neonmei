@@ -1,0 +1,20 @@
+#+title: 大家好，我叫露西🌈
+
+I tinker with writing code and infrastructure. I kinda try different ideas, make weird scripts and sometimes some of that ends up here or other places. Feel free to look around!
+
+cool things I like:
+- observability stuff 🔭
+- cooking recipes from many places 🥣
+- planting 🌱
+- [[https://www.gnu.org/software/emacs/][emacs]] 🐉
+- nerding with languages 🉐
+- [[https://nixos.org/][nixOS]] ❄️
+
+* Reach out
+
+I'm on the following places:
+- 📝 https://shenzhou.neonmei.cloud
+- 🦋 https://bsky.app/profile/neonmei.cloud
+- ✉️ shenzhou at neonmei dot cloud
+
+Or generally =neonmei= in different places, like Discord.
